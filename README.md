@@ -1,9 +1,9 @@
-### Hello World , i'm Shubham Goel 👋
+### Hello World , i'm Shubham Goel 👋  ![](https://visitor-badge.glitch.me/badge?page_id=shubhamgoel01.shubhagoel01)
 
 <img align="right" alt="GIF" src="https://github.com/shubhamgoel01/shubhamgoel01/blob/main/coder.gif?raw=true" width="500" height="320" />
 
 ## I'm a  Developer, Creator, and Mentor!!
-- 🔭 I’m currently working on ...Web-Development
+- 🔭 I’m currently working on something cool 😄
 - 🌱 I’m currently learning ...Python 
 - 👯 I’m looking to collaborate on ...Open source
 - 🤔 I’m looking for help with ...Python-flask
@@ -19,5 +19,5 @@
 
 </details>
 
-![](https://visitor-badge.glitch.me/badge?page_id=shubhamgoel01.shubhagoel01)
+
 
