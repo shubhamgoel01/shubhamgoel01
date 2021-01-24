@@ -12,3 +12,10 @@
 - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...I'm HappY!!!
 
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgoel01" />
+
+</details>
+
