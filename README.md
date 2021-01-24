@@ -9,6 +9,6 @@
 - 🤔 I’m looking for help with ...Python-flask
 - 💬 Ask me about ...Soft skills
 - 📫 How to reach me: ...[instagram](https://www.instagram.com/?hl=en)
-- 😄 Pronouns: ...He
+- 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...I'm HappY!!!
 
