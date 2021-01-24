@@ -13,7 +13,7 @@
 - 📫 How to reach me: ...[instagram](https://www.instagram.com/?hl=en)
 - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...I'm HappY!!!
-![](https://visitor-badge.glitch.me/badge?page_id=shubhamgoel01.shubhagoel01)
+- ![](https://visitor-badge.glitch.me/badge?page_id=shubhamgoel01.shubhagoel01)
 
 <details>
   <summary>:zap: Most Used Languages</summary><br>
