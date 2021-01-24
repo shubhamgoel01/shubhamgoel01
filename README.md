@@ -1,6 +1,6 @@
 ### Hello World , i'm Shubham Goel 👋
 
-<img align="right" alt="GIF" src="https://github.com/shubhamgoel01/shubhamgoel01/blob/main/coder.gif?raw=true" width="400" height="220" />
+<img align="right" alt="GIF" src="https://github.com/shubhamgoel01/shubhamgoel01/blob/main/coder.gif?raw=true" width="500" height="320" />
 
 ## I'm a  Developer, Creator, and Mentor!!
 - 🔭 I’m currently working on ...Web-Development
