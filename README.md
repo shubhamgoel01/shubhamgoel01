@@ -1,6 +1,6 @@
 ### Hello World , i'm Shubham Goel 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=shubhamgoel01.shubhagoel01)
+
 
 <img align="right" alt="GIF" src="https://github.com/shubhamgoel01/shubhamgoel01/blob/main/coder.gif?raw=true" width="500" height="320" />
 
@@ -13,6 +13,7 @@
 - 📫 How to reach me: ...[instagram](https://www.instagram.com/?hl=en)
 - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...I'm HappY!!!
+![](https://visitor-badge.glitch.me/badge?page_id=shubhamgoel01.shubhagoel01)
 
 <details>
   <summary>:zap: Most Used Languages</summary><br>
