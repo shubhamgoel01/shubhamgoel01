@@ -26,5 +26,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubhamgoel01&show_icons=true&theme=gotham" alt="shubhamgoel" />
 
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgoel01&theme=dracula&layout=compact" alt="Iamtripathisatyam" />
+</p>
 
