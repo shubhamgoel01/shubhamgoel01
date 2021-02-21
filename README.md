@@ -14,6 +14,8 @@
 - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...I'm HappY!!!
 - ![](https://visitor-badge.glitch.me/badge?page_id=shubhamgoel01.shubhagoel01)
+- ![](https://komarev.com/ghpvc/?username=shubhagoel01)<br/>
+- ![Visitor Count](https://profile-counter.glitch.me/{shubhamgoel01}/count.svg) <br/>
 
 <details>
   <summary>:zap: Most Used Languages</summary><br>
