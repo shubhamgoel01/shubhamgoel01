@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/shubhamgoel01/shubhamgoel01/blob/main/coder.gif?raw=true" width="500" height="320" />
 
-## I'm a  Full stack Web-Developer!!
+## I'm a  Fullstack Web-Developer!!
 - 🔭 I’m currently working on beckend 😄
 - 🌱 I’m currently learning ...Django-python 
 - 👯 I’m looking to collaborate on ...Open source
