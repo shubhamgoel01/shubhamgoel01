@@ -4,11 +4,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/shubhamgoel01/shubhamgoel01/blob/main/coder.gif?raw=true" width="500" height="320" />
 
-## I'm a  Fullstack Web-Developer!!
-- 🔭 I’m currently working on beckend 😄
+## I'm a  Python | Django | Backend Developer!!
+- 🔭 I’m currently working on DRF API's 😄
 - 🌱 I’m currently learning ...Django-python 
 - 👯 I’m looking to collaborate on ...Open source
-- 🤔 I’m looking for help with ... Web Development
+- 🤔 I’m looking for help with ... Backend stuff
 - 💬 Ask me about ...Soft skills
 - 📫 How to reach me: ...[instagram](https://www.instagram.com/?hl=en)
 - 😄 Pronouns: ...He/His
