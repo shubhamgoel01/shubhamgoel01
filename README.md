@@ -6,7 +6,7 @@
 
 ## I'm a  Python | Django | Backend Developer!!
 - 🔭 I’m currently working as Python Developer | Backend😄
-- 🌱 Practice -> Practice -> Practice ---. Python|Django| Django_RestFramework|API's
+- 🌱 Practice -> Practice -> Practice ---- Practice ....
 - 👯 I’m looking to collaborate on ...Open source
 - 🤔 I’m looking for help with ... Backend stuff
 - 💬 Ask me about ...Soft skills
