@@ -4,8 +4,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/shubhamgoel01/shubhamgoel01/blob/main/coder.gif?raw=true" width="500" height="320" />
 
-## I'm a  Python | Django | Backend Developer!!
-- 🔭 I’m currently working as Python Developer | Backend😄
+## I'm a  DevOps engineer | Python | Django | Backend Developer !!
+- 🔭 I’m currently working as DevOps engineer 😄
 - 🌱 Practice -> Practice -> Practice ---- Practice ....
 - 👯 I’m looking to collaborate on ...Open source
 - 🤔 I’m looking for help with ... Backend stuff
